@@ -14,3 +14,7 @@ img {
 .important {
   font-style: italic;
 }
+.sidebar {
+  float: left;
+  font-size: 100px;
+}
