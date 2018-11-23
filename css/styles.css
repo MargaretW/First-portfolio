@@ -6,9 +6,10 @@ h1 {
   font-style: italic;
 }
 body {
-  background-color: black;
+  background-color: #0B6623;
   font-weight: normal;
   color : white;
+  font: Georgia;
 }
 img {
   width: 30%;
