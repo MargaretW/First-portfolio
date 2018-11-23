@@ -7,3 +7,10 @@ body {
   background-color: green;
   font-weight: normal;
 }
+img {
+  width: 20%;
+  float:right;
+}
+.important {
+  font-style: italic;
+}
