@@ -6,8 +6,9 @@ h1 {
   font-style: italic;
 }
 body {
-  background-color: green;
+  background-color: black;
   font-weight: normal;
+  color : white;
 }
 img {
   width: 30%;
