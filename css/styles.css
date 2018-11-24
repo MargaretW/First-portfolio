@@ -42,7 +42,7 @@ p a {
 }
 .sidebar {
   font-size: 30px;
-  width: 70%;
+  width: 78%;
   padding: 10px;
   margin: 20px;
   background-color: pink;
@@ -53,6 +53,7 @@ p a {
   padding: 8px;
   margin:10px;
   background-color: white;
+  width: 78%
 }
 @media all and (min-width: 350px) and (max-width: 700px) {
   body {
