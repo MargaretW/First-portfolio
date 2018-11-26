@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: yellowgreen;
   font-size: 100px;
   font-weight: 400;
   font: Palatino;
@@ -15,6 +15,7 @@ h3 {
 }
 p {
   font-size: 30px;
+  color: white;
 }
 ul {
   font-size: 30px;
@@ -24,6 +25,9 @@ body {
   font-weight: normal;
   color : black;
   font-family: serif;
+  background-image: url(image/nature.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 img {
   width: 20%;
@@ -38,7 +42,7 @@ p a {
 }
 .important {
   font-style: italic;
-  color: white;
+  color: hotpink;
 }
 .sidebar {
   font-size: 30px;
@@ -52,11 +56,17 @@ p a {
   border: 3px solid yellow;
   padding: 8px;
   margin:10px;
-  background-color: white;
+  background-color: teal;
   width: 78%
 }
+.text-box p {
+  color: black;
 
-@media all and (min-width: 350px) and (max-width: 700px) {
+}
+.intro p {
+  color: black;
+}
+@media screen and (min-width: 350px) and (max-width: 700px) {
   body {
     background-color: #01FF7O;
     color: black;
