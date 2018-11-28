@@ -15,7 +15,7 @@ h3 {
 }
 p {
   font-size: 30px;
-  color: hotpink;
+  color: black;
 }
 ul {
   font-size: 30px;
@@ -23,12 +23,14 @@ ul {
 #page .page {
   font-weight: normal;
   color : black;
-  font-family: serif;
-  background-color: black;
+  font-family: 'Open Sans',sans-serif;
+  background-image: url("../css/image/wolf.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #page1 .page1 {
   font-weight: normal;
-  font-family: serif;
+  font-family: 'Open Sans' sans-serif;
   background-color: black;
 }
 #page1 img {
@@ -42,7 +44,7 @@ img {
   border: 2px;
 }
 p a {
-  color: forestgreen;
+  color: navy;
   font-size: 30px;
   font-style: oblique;
 }
@@ -55,18 +57,20 @@ p a {
   width: 78%;
   padding: 10px;
   margin: 20px;
-  background-color: pink;
+  background-color: teal;
+  border: 5px solid green;
 }
 .sidebar p {
   color: black;
 }
 .text-box {
   font-size: 30px;
-  border: 3px solid yellow;
-  padding: 8px;
-  margin:10px;
+  border: 5px solid green;
+  padding: 10px;
+  margin:20px;
   background-color: teal;
-  width: 78%
+  width: 78%;
+  font-family: 'Open Sans' sans-serif;
 }
 .text-box p {
   color: black;
@@ -74,15 +78,15 @@ p a {
 }
 .intro p {
   color: black;
-  margin: 10px;
-  padding: 4px;
+  margin: 20px;
+  padding:10px;
   border: 5px solid green;
   width: 78%;
-  background-color: white;
+  background-color: teal;
 }
 @media screen and (min-width: 200px) and (max-width: 700px) {
   body {
     background-color: #01FF7O;
-    color: black;
+    color: teal;
   }
 }
