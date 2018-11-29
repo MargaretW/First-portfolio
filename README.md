@@ -1,6 +1,6 @@
 # First-portfolio
 ####Independent Project 1, dated :23/11/2018
-#### By **Wakarima M Wangechi**
+By **Wakarima M Wangechi**
 ## Description
 This application tells more about Wakarima Wangechi.The main purpose is to show an understanding of week one activities of Prep-course on coding. 
 ## Setup/Installation Requirements
